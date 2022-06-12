@@ -6,7 +6,7 @@ graph
     id 1
     gender "male"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -76,7 +76,7 @@ graph
     id 11
     gender "female"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -90,7 +90,7 @@ graph
     id 13
     gender "female"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -118,7 +118,7 @@ graph
     id 17
     gender "male"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -132,14 +132,14 @@ graph
     id 19
     gender "female"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
     id 20
     gender "male"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -153,7 +153,7 @@ graph
     id 22
     gender "male"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -174,7 +174,7 @@ graph
     id 25
     gender "female"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -209,7 +209,7 @@ graph
     id 30
     gender "female"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
@@ -230,14 +230,14 @@ graph
     id 33
     gender "male"
     color "skyblue"
-    belt "grey"
+    belt "#EDEDED"
   ]
   node
   [
     id 34
     gender "male"
     color "orange"
-    belt "grey"
+    belt "#EDEDED"
   ]
   edge
   [
