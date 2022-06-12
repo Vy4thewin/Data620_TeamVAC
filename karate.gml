@@ -4,138 +4,240 @@ graph
   node
   [
     id 1
+    gender "male"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 2
+    gender "female"
+    color "skyblue"
+    belt "orange"
   ]
   node
   [
     id 3
+    gender "male"
+    color "skyblue"
+    belt "yellow"
   ]
   node
   [
     id 4
+    gender "female"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 5
+    gender "male"
+    color "skyblue"
+    belt "yellow"
   ]
   node
   [
     id 6
+    gender "male"
+    color "skyblue"
+    belt "yellow"
   ]
   node
   [
     id 7
+    gender "male"
+    color "skyblue"
+    belt "blue"
   ]
   node
   [
     id 8
+    gender "female"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 9
+    gender "female"
+    color "skyblue"
+    belt "yellow"
   ]
   node
   [
     id 10
+    gender "male"
+    color "skyblue"
+    belt "blue"
   ]
   node
   [
     id 11
+    gender "female"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 12
+    gender "male"
+    color "skyblue"
+    belt "orange"
   ]
   node
   [
     id 13
+    gender "female"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 14
+    gender "male"
+    color "skyblue"
+    belt "blue"
   ]
   node
   [
     id 15
+    gender "female"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 16
+    gender "male"
+    color "skyblue"
+    belt "orange"
   ]
   node
   [
     id 17
+    gender "male"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 18
+    gender "female"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 19
+    gender "female"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 20
+    gender "male"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 21
+    gender "female"
+    color "skyblue"
+    belt "orange"
   ]
   node
   [
     id 22
+    gender "male"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 23
+    gender "male"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 24
+    gender "female"
+    color "skyblue"
+    belt "yellow"
   ]
   node
   [
     id 25
+    gender "female"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 26
+    gender "male"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 27
+    gender "male"
+    color "skyblue"
+    belt "blue"
   ]
   node
   [
     id 28
+    gender "female"
+    color "skyblue"
+    belt "yellow"
   ]
   node
   [
     id 29
+    gender "male"
+    color "skyblue"
+    belt "orange"
   ]
   node
   [
     id 30
+    gender "female"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 31
+    gender "male"
+    color "skyblue"
+    belt "blue"
   ]
   node
   [
     id 32
+    gender "male"
+    color "skyblue"
+    belt "purple"
   ]
   node
   [
     id 33
+    gender "male"
+    color "skyblue"
+    belt "grey"
   ]
   node
   [
     id 34
+    gender "male"
+    color "orange"
+    belt "grey"
   ]
   edge
   [
