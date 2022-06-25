@@ -5,13 +5,8 @@ def trim_edges(g, weight=1):
         if edata['weight'] > weight:
             #print(edata['weight'])
             g2.add_edge(f, to, weight=edata['weight'])
-    return g2def trim_edges(g, weight=1):
-    g2 = nx.Graph()
-    for f, to, edata in g.edges(data=True):
-        if edata['weight'] > weight:
-            #print(edata['weight'])
-            g2.add_edge(f, to, weight=edata['weight'])
-return g2
+    return g2
+
 
 
 # As an experiment, use the weighted_project_graph function
